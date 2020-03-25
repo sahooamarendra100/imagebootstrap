@@ -1,0 +1,73 @@
+.image{
+    height: 700px;
+    min-width: 100%;
+    background-color: #f5f8fd;
+}
+.img{
+    padding-top: 65px;
+}
+.upper{
+    background-color: #f5f8fd;
+}
+.about-img{
+    padding-top: 90px;
+    padding-bottom: 90px;
+}
+.card{
+    height:700px;
+    min-width: 100%;
+    background-color: #f5f8fd;
+}
+h1, h2, h3, h4, h5, h6 {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 400;
+    margin: 0 0 20px 0;
+    padding: 0;
+  }
+  .why{
+      padding-top:70px;
+  }
+  .number{
+      padding-top: 100px;
+  }
+  .call{
+      background-color:rgb(50, 5, 92);
+      height: 200px;
+      min-width: 100%;
+  }
+  .blue{
+      padding-top: 50px;
+  }
+  .calll{
+      padding-top: 100px;
+  }
+  .profile{
+    height:auto;
+    min-width: 100%;
+    background-color: #f5f8fd;
+  }
+  .section{
+    height:700px;
+    min-width: 100%;
+    background-color: #f5f8fd;
+  }
+ .ca{
+     padding-bottom: 100px;
+ }
+ .footter{
+    height:550px;
+    min-width: 100%;
+    background-color: #f5f8fd;
+
+ }
+ .icon{
+    width:70px;
+    height:70px;
+    border-radius: 50%;
+ }
+ .ic{
+     margin-left: 145px;
+ }
+ .butt{
+    background-color:rgb(50, 5, 92);
+ }
