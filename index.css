@@ -1,8 +1,9 @@
 .image{
-    height: 700px;
+    height: 800px;
     min-width: 100%;
     background-color: #f5f8fd;
 }
+@
 .img{
     padding-top: 65px;
 }
@@ -32,7 +33,7 @@ h1, h2, h3, h4, h5, h6 {
   }
   .call{
       background-color:rgb(50, 5, 92);
-      height: 200px;
+      height: auto;
       min-width: 100%;
   }
   .blue{
@@ -55,7 +56,7 @@ h1, h2, h3, h4, h5, h6 {
      padding-bottom: 100px;
  }
  .footter{
-    height:550px;
+    height:600px;
     min-width: 100%;
     background-color: #f5f8fd;
 
@@ -71,28 +72,38 @@ h1, h2, h3, h4, h5, h6 {
  .butt{
     background-color:rgb(50, 5, 92);
  }
- /*  
- #hero .intro-info .btn-get-started, #hero .intro-info .btn-services {
-    font-family: "Montserrat", sans-serif;
-    font-size: 13px;
-    font-weight: 600;
-    text-transform: uppercase;
-    letter-spacing: 1px;
-    display: inline-block;
-    padding: 10px 32px;
-    border-radius: 4px;
-    color: #fff;
-    background: #1bb1dc;
-    color: #fff;
-  }
-  
-  #hero .intro-info .btn-get-started:hover, #hero .intro-info .btn-services:hover {
-    background: #0a98c0;
-    */
-
+ 
 .head{
     font-size: 13px;
     font-weight: 600;
     letter-spacing: 1px;
     background: #1bb1dc;
 }
+
+
+
+/*                */
+
+  
+  
+  
+  
+  
+  #hero .intro-info h2 {
+    color: #413e66;
+    margin-bottom: 40px;
+    font-size: 48px;
+    font-weight: 700;
+  }
+  
+  #hero .intro-info h2 span {
+    color: #1bb1dc;
+  }
+  
+  
+  
+  
+  
+  #hero .intro-info .btn-get-started:hover, #hero .intro-info .btn-services:hover {
+    background: #0a98c0;
+  }
